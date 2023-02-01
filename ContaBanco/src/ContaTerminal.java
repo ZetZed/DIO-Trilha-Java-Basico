@@ -4,7 +4,7 @@ public class ContaTerminal {
 
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);//.useDelimiter(" (?=\\d)|\\n");
+        Scanner scan = new Scanner(System.in);
 
         System.out.println("Por favor, digite o seu nome completo: ");
         String nomeCliente = scan.nextLine();
