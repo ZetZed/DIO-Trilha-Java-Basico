@@ -1,18 +1,20 @@
-## Getting Started
+# Multiplicação Simples
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Desafio
+Você receberá dois valores inteiros. Faça a leitura e em seguida calcule o produto entre estes dois valores. Atribua esta operação à variável *PROD*, mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).   
 
-## Folder Structure
+## Entrada
+A entrada contém 2 valores inteiros.
 
-The workspace contains two folders by default, where:
+## Saída
+Exiba a variável *PROD* conforme exemplo abaixo, tendo obrigatoriamente um espaço em branco antes e depois da igualdade.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ 
+│Exemplos de Entrada │ Exemplos de Saída 
+│--------------------│-------------------                    
+│ 3                  │ PROD = 27
+│ 9                  │
+│ -30                │ PROD = -300
+│ 10                 │
+│ 0                  │ PROD = 0
+│ 9                  │
