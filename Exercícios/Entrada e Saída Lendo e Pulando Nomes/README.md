@@ -14,7 +14,7 @@ A entrada consiste vários arquivos de teste, cada um com dez linhas e em cada l
 ## Saída
 Para cada arquivo da entrada, terá um arquivo de saída. E como mencionado no Desafio, gere três linhas conforme os procedimentos 2, 3 e 4. Use o exemplo abaixo para clarear o que está sendo pedido.
 
-| Exemplo de Entrada | Exemplo de Saída |   
+| Exemplos de Entrada | Exemplos de Saída |   
 | ------------------ | ---------------- | 
 |USP<br>UFPE<br>UFCG<br>UFRN<br>UFRJ<br>IME<br>ITA<br>UNIOESTE<br>URI<br>UFG | UFCG<br><br>ITA<br><br>URI|
 |UnB<br>UFMG<br>UNIFEI<br>UECE<br>UNICAMP<br>INATEL<br>UFRGS<br>UNIFESO<br>UFU<br>PUC | UNIFEI<br><br>UFRGS<br><br>UFU|
